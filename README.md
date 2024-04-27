@@ -2,6 +2,8 @@ Code is slightly modified from [NanoGPT](https://github.com/karpathy/nanoGPT). (
 
 Experiment data (figures only) available in `test8`. **Experiments were run quickly. Please take data with a grain of salt.**
 
+**NOTE FOR SCATTERPLOTS:** The scaling of the X and Y axes may not be linear.
+
 Invocation of `sample.py` used to gather experiment data:
 ```
 python sample.py --init_from=gpt2 --start="What is the answer to life, the universe, and everything?" --num_samples=1 --max_new_tokens=1

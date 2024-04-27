@@ -2,7 +2,7 @@ Code is slightly modified from [NanoGPT](https://github.com/karpathy/nanoGPT). (
 
 Experiment data (figures only) available in `test8`. **Experiments were run quickly. Please take data with a grain of salt.**
 
-**NOTE FOR SCATTERPLOTS:** The scaling of the X and Y axes may not be linear.
+**SCATTERPLOTS ARE FOR REFERENCE ONLY!!** The scatterplots' scaling of the X and Y axes may not be linear. Data on the X and Y axes may have been transfored (e.g. I think the X axis is actually log).
 
 Invocation of `sample.py` used to gather experiment data:
 ```
